@@ -2,10 +2,10 @@
 
 ## identifyexecutor/luarmor
 
-![image](https://raw.githubusercontent.com/jj123llol/Autumn-/refs/heads/main/Screenshot_20250613-202801-052.png)
-
 When executing a luarmor script on Autumn, it identifys the executor as "Seliware",
 but when you run print(identifyexecutor()) it returns "Autumn"
+
+![image](https://raw.githubusercontent.com/jj123llol/Autumn-/refs/heads/main/Screenshot_20250613-202801-052.png)
 
 ![image](https://raw.githubusercontent.com/jj123llol/Autumn-/refs/heads/main/image.png)
 
