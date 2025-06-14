@@ -11,6 +11,6 @@ but when you run print(identifyexecutor()) it returns "Autumn"
 
 
 ## internal ui
-i was told that the autumn internal ui is the same as the velocity ui, i am workinf on getting proof of this, but until then here is the autumn internal ui
+i was told that the autumn internal ui is the same as the velocity ui, i am working on getting proof of this, but until then here is the autumn internal ui
 
 ![image](https://raw.githubusercontent.com/jj123llol/Autumn-/refs/heads/main/image-52%7E2.png)
